@@ -1,0 +1,2 @@
+2020-09-04 02:15:38,306 INFO com.discovery.server.DiscoveryServerApplication [main] No active profile set, falling back to default profiles: default
+2020-09-04 02:15:47,656 INFO com.discovery.server.DiscoveryServerApplication [main] Started DiscoveryServerApplication in 13.843 seconds (JVM running for 14.822)
